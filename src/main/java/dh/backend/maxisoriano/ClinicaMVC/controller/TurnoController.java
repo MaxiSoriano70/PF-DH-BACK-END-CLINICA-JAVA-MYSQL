@@ -32,12 +32,12 @@ public class TurnoController {
     @PutMapping("/{id}")
     public ResponseEntity<String> modificarTurno(@PathVariable Integer id, @RequestBody TurnoRequestDto turno){
         turnoService.actualizarTurno(id, turno);
-        return ResponseEntity.ok("Turno modificado");
+        return ResponseEntity.ok("{\"message\": \"Turno modificado\"}");
     }
     @DeleteMapping("/{id}")
     public ResponseEntity<String> borrarTurno(@PathVariable Integer id) throws ResourceNotFoundException {
         turnoService.eliminarTurno(id);
-        return ResponseEntity.ok("Turno eliminado.");
+        return ResponseEntity.ok("{\"message\": \"Turno eliminado\"}");
     }
 
     private DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
