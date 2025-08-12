@@ -1,6 +1,7 @@
 # 🦷 ClínicaMVC — Sistema Web para Gestión de Turnos Odontológicos
 
-Este proyecto es una aplicación **web** desarrollada en **Java 17 con Spring Boot 3**, que permite gestionar turnos entre pacientes y odontólogos, usando una base de datos relacional (**MySQL** o **H2**) y vistas renderizadas con **Thymeleaf**.
+Proyecto desarrollado como **estudiante becado** en **Digital House** dentro de la formación **Certified Tech Developer**.  
+Es una aplicación **web** desarrollada en **Java 17 con Spring Boot 3**, que permite gestionar turnos entre pacientes y odontólogos, usando una base de datos relacional (**MySQL** o **H2**) y vistas renderizadas con **Thymeleaf**.
 
 ---
 
@@ -70,11 +71,18 @@ spring.jpa.hibernate.ddl-auto=update
 http://localhost:8080
 ```
 
+## 📂 Repositorios
+
+- **Backend (Java Spring Boot)**: [GitHub - ClínicaMVC](https://github.com/MaxiSoriano70/PF-DH-BACK-END-CLINICA-JAVA-MYSQL.git)  
+- **Frontend ( HTML / CSS / JS)**: [GitHub - Clínica Frontend](https://github.com/MaxiSoriano70/PF-DH-FRONT-END-CLINICA-JAVA-MYSQL.git)  
+
+---
+
 ## 🙋‍♂️ Autor
 
-**Maximiliano Soriano**
-
+**Maximiliano Soriano**  
 💼 Desarrollador Java Full Stack  
-📧 maxi.soriano.70.23@gmail.com
-🔗 LinkedIn: [linkedin.com/in/maximilianosoriano](https://www.linkedin.com/in/maximiliano-soriano/)
+📧 maxi.soriano.70.23@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/maximilianosoriano)  
+
 
