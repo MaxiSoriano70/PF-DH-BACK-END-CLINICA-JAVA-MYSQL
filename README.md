@@ -76,4 +76,5 @@ http://localhost:8080
 
 💼 Desarrollador Java Full Stack  
 📧 maxi.soriano.70.23@gmail.com
+🔗 LinkedIn: [linkedin.com/in/maximilianosoriano](https://www.linkedin.com/in/maximiliano-soriano/)
 
